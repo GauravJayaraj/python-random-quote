@@ -8,4 +8,4 @@ def primary():
   #print(quotes)
 
 if __name__== "__primary__":
-  primary()
+  main()
